@@ -1,0 +1,13 @@
+name = "Save and Load Inventories"
+filename = "saveandloadinventories-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0UVc3e9/versions/brFEmyJY/saveandloadinventories-1.18.2-3.0.jar"
+hash-format = "sha1"
+hash = "57ba3a20652df4a7cfd88bc37c16e20bd609c662"
+
+[update]
+[update.modrinth]
+mod-id = "W0UVc3e9"
+version = "brFEmyJY"

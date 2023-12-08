@@ -1,0 +1,16 @@
+name = "Create: Astral | Midlighted"
+author = "Ivy"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e15133de42f1e1280a5cf97df5223c2f0982e3a6278d64091c9e96ec44aa5a32"
+
+[versions]
+fabric = "0.14.14"
+minecraft = "1.18.2"
+
+[options]
+no-internal-hashes = true

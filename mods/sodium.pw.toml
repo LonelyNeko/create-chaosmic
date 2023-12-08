@@ -1,0 +1,7 @@
+name = "sodium"
+filename = "sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.23e83a1.jar"
+
+[download]
+url = "https://www.replaymod.com/download/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.23e83a1.jar"
+hash-format = "sha256"
+hash = "21caf42aee36ccdd72c0437e7ed6587769630afa49267f59647e75f1274fa8b8"
